@@ -1,2 +1,2 @@
 # Shop-App
-An e-commerce application built using flutter &amp; dart 
+A shopping (e-commerce) app where you can add items, order items, filter by your favourte items.
